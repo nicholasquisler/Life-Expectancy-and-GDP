@@ -4,7 +4,7 @@
 - https://nicholasquisler.github.io/Life-Expectancy-and-GDP/index.html
 
 ### Preview
-![alt text](https://github.com/nicholasquisler/nicholasquisler.github.io/raw/main/images/LEAB_GDP.PNG)
+![alt text](https://github.com/nicholasquisler/nicholasquisler.github.io/raw/main/images/LEAB_GDP.png)
 
 ### About
 - This is a quick project where I analyzed, prepared, and ploted data in python in order to answer questions in a meaningful way about the life expectancy and GDP of six countries.
